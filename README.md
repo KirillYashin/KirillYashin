@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KirillYashin
-- 👀 I’m interested in programming, football (Manchester is my heaven) and cinema
-- 🌱 I’m currently learning c++, computer graphics and python
+- 👀 Currently working at Intel
+- 🌱 Learning Python (especially TG bots development) and DevOps
 
 <!---
 KirillYashin/KirillYashin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
