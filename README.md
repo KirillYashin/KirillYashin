@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KirillYashin
-- 👀 Currently working at Intel
-- 🌱 Learning Python (especially TG bots development) and DevOps
+- 👀 Currently working at YADRO
+- 🌱 Learning Python and DevOps
 
 <!---
 KirillYashin/KirillYashin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
