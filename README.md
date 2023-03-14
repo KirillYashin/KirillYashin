@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @KirillYashin
-- 👀 Currently working at YADRO
-- 🌱 Learning Python and DevOps
 
 <!---
 KirillYashin/KirillYashin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
